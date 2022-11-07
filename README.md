@@ -10,7 +10,7 @@
 
 Точное предсказание пропаж и их локализация позволит повысить надежность системы — гарантировать доставку отправлений в срок и снизить расходы на транспортировку. Задача — разработать модель предсказания потери почтовых отправлений:
 
-Скачать данные: https://drive.google.com/drive/folders/1GEt9DZmwPmfG8dzO70XV_xJ05XVc8bOm?usp=share_link
+Скачать данные (исходные и предобработанные): https://drive.google.com/drive/folders/1GEt9DZmwPmfG8dzO70XV_xJ05XVc8bOm?usp=share_link
 
 # **All-Russian Championship - Digital Breakthrough**
 
@@ -24,4 +24,4 @@ Despite the high level of the security system, there is still a risk of loss or 
 
 Accurate prediction of missing items and their localization will improve the reliability of the system — guarantee the delivery of shipments on time and reduce transportation costs. The task is to develop a model for predicting the loss of mail.
 
-Download data: https://drive.google.com/drive/folders/1GEt9DZmwPmfG8dzO70XV_xJ05XVc8bOm?usp=share_link
+Download data (source and preprocessed): https://drive.google.com/drive/folders/1GEt9DZmwPmfG8dzO70XV_xJ05XVc8bOm?usp=share_link
