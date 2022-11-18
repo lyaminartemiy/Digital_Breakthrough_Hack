@@ -12,7 +12,6 @@
 
 ***Скачать данные:***
  - Датасеты: https://drive.google.com/drive/folders/1nLkxFfX4o9XPrmsk1T7p-QB9dVxdQTU3?usp=share_link
- - Презентация: https://drive.google.com/drive/folders/11XDeCViKFqm-LN8-1kidjV3G4b_-JT70?usp=share_link
  - Модели CatBoost: https://drive.google.com/drive/folders/1gQ4V8yhOz70Q3MmXFLbsfs03bsZUpcYs?usp=share_link
  - Предсказанные значения: https://drive.google.com/drive/folders/12ESjgTpr-hyg6yDUdbIXj2hCAZgZeK_n?usp=share_link
  
@@ -44,7 +43,6 @@ Accurate prediction of missing items and their localization will improve the rel
 
 ***Download data:***
 - Datasets: https://drive.google.com/drive/folders/1nLkxFfX4o9XPrmsk1T7p-QB9dVxdQTU3?usp=share_link
-- Presentation: https://drive.google.com/drive/folders/11XDeCViKFqm-LN8-1kidjV3G4b_-JT70?usp=share_link
 - CatBoost Models: https://drive.google.com/drive/folders/1gQ4V8yhOz70Q3MmXFLbsfs03bsZUpcYs?usp=share_link
 - Predicted values: https://drive.google.com/drive/folders/12ESjgTpr-hyg6yDUdbIXj2hCAZgZeK_n?usp=share_link
 
