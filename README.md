@@ -10,11 +10,6 @@ Despite the high level of the security system, there is still a risk of loss or 
 
 Accurate prediction of missing items and their localization will improve the reliability of the system — guarantee the delivery of shipments on time and reduce transportation costs. The task is to develop a model for predicting the loss of mail.
 
-***Download data:***
-- Datasets: https://drive.google.com/drive/folders/1nLkxFfX4o9XPrmsk1T7p-QB9dVxdQTU3?usp=share_link
-- CatBoost Models: https://drive.google.com/drive/folders/1gQ4V8yhOz70Q3MmXFLbsfs03bsZUpcYs?usp=share_link
-- Predicted values: https://drive.google.com/drive/folders/12ESjgTpr-hyg6yDUdbIXj2hCAZgZeK_n?usp=share_link
-
 ***For predicting mail loss***:
 - Produced by: EDA (Exploratory Data Analysis) and Data Preprocessing
 - Trained CatBoost models
